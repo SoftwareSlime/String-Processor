@@ -1,2 +1,3 @@
 # String-Processor
-using swtich cases
+Checking the number of vowels, consonants, numbers, spaces, and punctution in a string
+- using swtich cases
